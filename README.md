@@ -21,11 +21,11 @@ In this application, there are groups consisting of friends. Anybody can create 
 
 | Name                      |
 |---------------------------|
-| Project Plan              |
-| Requirement Specification |
-| Requirement Analysis      |
-| Design Document           |
-| Test Report               |
+| [Project Plan](https://github.com/event-wise/EventWise/blob/main/docs/Project_Plan.pdf)              |
+| [Requirement Specification](https://github.com/event-wise/EventWise/blob/main/docs/Requirement_Specification.pdf) |
+| [Requirement Analysis](https://github.com/event-wise/EventWise/blob/main/docs/Requirement_Analysis.pdf)      |
+| [Design Document](https://github.com/event-wise/EventWise/blob/main/docs/Design_Documentation.pdf)           |
+| [Test Report](https://github.com/event-wise/EventWise/blob/main/docs/Test_Report.pdf)               |
 
 #### Repositories
 
