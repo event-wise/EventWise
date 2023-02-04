@@ -8,6 +8,14 @@ Mobile phones are one of the most essential tools in the contemporary world and 
 
 In this application, there are groups consisting of friends. Anybody can create a new group then, everyone in this group can create an event and invite any other person in the group.  In any group, the person can create or attend an event and socialize. All the activities of all members are logged into the log tab of the group. The logs depict information about the creator of the event, who accepted or did not accept the invitation to a particular event.
 
+### Repositories
+
+| Name             |
+|------------------|
+| [Backend](https://github.com/event-wise/EventWiseBackend)          |
+| [Frontend](https://github.com/event-wise/EventWiseFrontend)         |
+| [Mobile (Android)](https://github.com/event-wise/EventWiseAndroid) |
+
 ### Team
 
 | Name                | Role                           |
@@ -27,11 +35,5 @@ In this application, there are groups consisting of friends. Anybody can create 
 | [Design Document](https://github.com/event-wise/EventWise/blob/main/docs/Design_Documentation.pdf)           |
 | [Test Report](https://github.com/event-wise/EventWise/blob/main/docs/Test_Report.pdf)               |
 
-### Repositories
 
-| Name             |
-|------------------|
-| [Backend](https://github.com/event-wise/EventWiseBackend)          |
-| [Frontend](https://github.com/event-wise/EventWiseFrontend)         |
-| [Mobile (Android)](https://github.com/event-wise/EventWiseAndroid) |
 
